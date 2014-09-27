@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2100952574">
+    <data-source source="LOCAL" name="Rails projectapp: development" uuid="6c91cfc0-7e89-41a7-92c3-973ea92fec59">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/projectapp_development</jdbc-url>
+      <user-name>Viji</user-name>
+      <user-password>dfd8dfc3dfd9dfc2dfc7dfc3dfd9dfc2</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails projectapp: test" uuid="4df6e190-d8b7-412e-9166-e02fa490d8b8">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/projectapp_test</jdbc-url>
+      <user-name>Viji</user-name>
+      <user-password>dfd8dfc3dfd9dfc2dfc7dfc3dfd9dfc2</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails projectapp: production" uuid="60980890-0c23-4950-8697-f05720646026">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:projectapp_production</jdbc-url>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffadff8dfe5dfe0dfefdfe9dffedfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
